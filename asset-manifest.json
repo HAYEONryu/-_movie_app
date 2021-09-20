@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nomadcoder_movie_app/static/css/main.6781e068.chunk.css",
-    "main.js": "/nomadcoder_movie_app/static/js/main.3611e623.chunk.js",
-    "main.js.map": "/nomadcoder_movie_app/static/js/main.3611e623.chunk.js.map",
+    "main.css": "/nomadcoder_movie_app/static/css/main.76d4cdd6.chunk.css",
+    "main.js": "/nomadcoder_movie_app/static/js/main.3bb53959.chunk.js",
+    "main.js.map": "/nomadcoder_movie_app/static/js/main.3bb53959.chunk.js.map",
     "runtime-main.js": "/nomadcoder_movie_app/static/js/runtime-main.7906ee83.js",
     "runtime-main.js.map": "/nomadcoder_movie_app/static/js/runtime-main.7906ee83.js.map",
-    "static/js/2.dd12bab8.chunk.js": "/nomadcoder_movie_app/static/js/2.dd12bab8.chunk.js",
-    "static/js/2.dd12bab8.chunk.js.map": "/nomadcoder_movie_app/static/js/2.dd12bab8.chunk.js.map",
+    "static/js/2.82de09b1.chunk.js": "/nomadcoder_movie_app/static/js/2.82de09b1.chunk.js",
+    "static/js/2.82de09b1.chunk.js.map": "/nomadcoder_movie_app/static/js/2.82de09b1.chunk.js.map",
     "index.html": "/nomadcoder_movie_app/index.html",
-    "static/css/main.6781e068.chunk.css.map": "/nomadcoder_movie_app/static/css/main.6781e068.chunk.css.map",
-    "static/js/2.dd12bab8.chunk.js.LICENSE.txt": "/nomadcoder_movie_app/static/js/2.dd12bab8.chunk.js.LICENSE.txt"
+    "static/css/main.76d4cdd6.chunk.css.map": "/nomadcoder_movie_app/static/css/main.76d4cdd6.chunk.css.map",
+    "static/js/2.82de09b1.chunk.js.LICENSE.txt": "/nomadcoder_movie_app/static/js/2.82de09b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7906ee83.js",
-    "static/js/2.dd12bab8.chunk.js",
-    "static/css/main.6781e068.chunk.css",
-    "static/js/main.3611e623.chunk.js"
+    "static/js/2.82de09b1.chunk.js",
+    "static/css/main.76d4cdd6.chunk.css",
+    "static/js/main.3bb53959.chunk.js"
   ]
 }
